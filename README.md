@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Thurzin11/Thurzin11/output/snake.svg" alt="Snake animation" />
-
-###

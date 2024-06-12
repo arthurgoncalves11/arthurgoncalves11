@@ -1,4 +1,4 @@
-<h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? About me below</h2>
+<h2 align="left">What's up?<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </br> About me below </h2>
 
 ###
 

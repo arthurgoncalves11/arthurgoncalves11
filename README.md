@@ -3,8 +3,6 @@
 ###
 
 <p align="left">- Java Developer<br>- Engineering Student at @UFSC<br>- FullStack Developer Student at @proway</p>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="arthur-goncalves03" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/arthur-goncalves03?trk=profile-badge">Arthur S.</a></div>
               
 ###
 

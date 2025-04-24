@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Engineering Student at @UFSC<br>- FullStack Developer Student at @proway</p>
+<p align="left">- Java Developer<br>- Computer Science Student at @FURB<br>- FullStack Developer</p>
               
 ###
 
